@@ -30,9 +30,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-
+  
 ## 😇 My Github Stats:
 
-:building_construction: **Building**
+<div align="center">
+  <a href="https://github.com/priscilla-oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilla-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilla-oliveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+## 🛠 Social Networking Links
+
+<div> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:priscillac.oliveira@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Pri#6832" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>

@@ -8,7 +8,7 @@
 
 ## :woman_technologist: About Me
 
-:woman_student: ┇I'm a Full Stack student at Santander Bootcamp;<br />
+:woman_student: ┇I'm a Full Stack student at Digital Innovation One;<br />
 :computer: ┇Also an IT Scrum Master;<br />
 💾 ┇Few tech that I enjoy working in are Java, JavaScript, C++, and Angular ;<br />
 😍 ┇Passionate about education, challenges and solving problem with technology;<br />

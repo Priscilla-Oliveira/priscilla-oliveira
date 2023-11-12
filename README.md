@@ -2,15 +2,13 @@
 
 **💻 Senior Agility Engineer** 
 
-**👩🏽‍💻 Future Backend Developer** 
-
 ---
 
 ## 👩🏽‍💻 About Me
 
 👩🏽‍🎓 ┇I'm a Full Stack student at Digital Innovation One;<br />
 💻 ┇Also an IT Agile Master;<br />
-💾 ┇Few tech that I enjoy working in are Java, JavaScript, C++, and Angular ;<br />
+💾 ┇Few tech that I enjoy working in are C#, C++, .NET, and SQL Server ;<br />
 😍 ┇Passionate about education, challenges and solving problem with technology;<br />
 🎯 ┇Looking to contribute to as many open source projects as possible;<br />
 🏊🏽‍♀️┇Swimming is my favorite hobby;<br />
@@ -26,8 +24,10 @@
 
 ## 🛠 Tech Stack
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
